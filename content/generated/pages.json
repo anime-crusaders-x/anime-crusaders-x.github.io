@@ -1,0 +1,678 @@
+[
+  {
+    "enabled": true,
+    "slug": "tier-list",
+    "pageType": "list",
+    "navLabel": "Tier List",
+    "title": "Anime Crusaders X Tier List: 2026 Unit Rankings | Full Guide",
+    "description": "Compare Anime Crusaders X units by tier, role, and game mode. Use the rankings to weigh team fit and investment, and check what evidence supports each.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "List",
+      "heading": "Anime Crusaders X Tier List: Unit Rankings by Role and Mode",
+      "lead": "The Anime Crusaders X tier list ranks units so you can decide which characters to summon, upgrade, and slot into your team. Because the game is a tower-defense experience where you place anime units along a path to stop enemy waves, unit role and mode fit matter as much as raw power. This page organizes current rankings by tier and role, explains how Story, Infinite, and Expedition modes reward different unit types, and walks through the criteria you can use to judge any unit's investment value."
+    },
+    "sections": [
+      {
+        "id": "anime-crusaders-x-tier-list-breakdown-by-tier",
+        "heading": "Anime Crusaders X Tier List Breakdown by Tier",
+        "intro": "Anime Crusaders X uses a five-tier ranking structure—S, A, B, C, and D—to reflect how effectively units defend against advancing enemy waves. S-tier units combine high damage output, fast ability cooldowns, and wide area coverage, letting them handle both early rushes and late-stage boss waves with minimal support. A-tier units deliver strong performance in one or two areas but need complementary team members to cover gaps in range, single-target burst, or crowd control. B-tier units fill mid-game roles reliably but fall behind when enemies scale in health and speed, requiring overleveling or specific team synergies to stay competitive.",
+        "paragraphs": [
+          "C-tier units perform a niche task well—such as applying a specific debuff or tanking a single lane—but lack the versatility to justify investment unless that niche directly counters a stage mechanic. D-tier units are outclassed by free or early-summon alternatives in every measurable category, making them poor candidates for leveling or team slots. Because the game rewards collecting and leveling units to unlock abilities, tier placement reflects both a unit's baseline kit and how much value each upgrade level adds to overall team output."
+        ]
+      },
+      {
+        "id": "unit-roles-explained-dps-support-and-tank",
+        "heading": "Unit Roles Explained: DPS, Support, and Tank",
+        "intro": "Anime Crusaders X follows the classic tower-defense role split: DPS units deal the majority of damage to enemy waves, Support units amplify team output through buffs or debuffs, and Tank units absorb hits or slow enemies to buy time. Each unit you collect belongs to one of these categories, and leveling them unlocks abilities that deepen their role specialization.",
+        "paragraphs": [
+          "DPS characters are your primary damage source and should occupy slots where they can consistently hit advancing enemies. Support units multiply the effectiveness of your DPS by increasing attack speed, range, or critical-hit rate, so place them near your main damage dealers. Tank units extend your defense window by holding enemy attention or reducing movement speed, which prevents leaks when your DPS lineup needs extra seconds to finish a wave.",
+          "Understanding these three roles helps you identify gaps in your current team and decide which summons to prioritize. A team stacked with only DPS will struggle against fast waves, while a lineup heavy on Support without enough damage output will eventually be overrun."
+        ]
+      },
+      {
+        "id": "story-infinite-and-expedition-ranking-differences",
+        "heading": "Story, Infinite, and Expedition Ranking Differences",
+        "intro": "Anime Crusaders X includes Story, Infinite, and Expedition modes, and each rewards different unit characteristics. Story mode features fixed enemy waves and set difficulty checkpoints, so units with high burst damage and crowd-control abilities shine when you need to clear specific stages quickly. Infinite mode runs continuous waves with escalating health pools and spawn rates, making sustained DPS and cost-efficient support units more valuable than expensive burst specialists who cannot maintain pressure over dozens of rounds.",
+        "paragraphs": [
+          "Expedition mode introduces timed objectives and conditional win requirements, shifting the meta toward units with flexible targeting, fast ability cooldowns, and self-sufficient kits that perform well without heavy support. A unit ranked S-tier in Story for its wave-clear ultimate may drop to A-tier in Infinite if its cooldown is too long to handle back-to-back spawns, or rise to S-tier in Expedition if its short-cooldown stun locks priority targets under time pressure. Check the tier breakdown section for role-specific rankings, and cross-reference the units page for individual ability unlock thresholds and team-composition notes that apply across all three modes."
+        ],
+        "table": {
+          "caption": "Anime Crusaders X tier list Evaluation & Priority Matrix",
+          "columns": [
+            "Tier / Category",
+            "Primary Role",
+            "Unlock Stage",
+            "Recommended Focus"
+          ],
+          "rows": [
+            [
+              "S-Tier (Meta Core)",
+              "High scaling & boss clear",
+              "Mid to Late Game",
+              "Prioritize upgrades and main loadout slot"
+            ],
+            [
+              "A-Tier (Reliable)",
+              "Consistent farming & utility",
+              "Early to Mid Game",
+              "Use as transitional carry until top-tier unlock"
+            ],
+            [
+              "B-Tier (Starter)",
+              "Basic progression & entry loop",
+              "Starter / Tutorial",
+              "Replace once first milestone resources are secured"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-judge-a-unit-s-team-fit-and-investment-value",
+        "heading": "How to Judge a Unit's Team Fit and Investment Value",
+        "intro": "Deciding whether to level a unit depends on three factors: your current roster, the mode you are playing, and how the unit's abilities unlock. Since you level units to unlock abilities, the progression curve matters as much as the final stat line. A unit that unlocks a critical crowd-control ability at level 40 may be worth the investment even if its early damage output is modest, especially if your team lacks that crowd-control role.",
+        "paragraphs": [
+          "Start by identifying what your team needs. If your current setup is heavy on damage dealers but lacks healing or crowd control, a support or tank unit fills a gap even if it ranks lower on the overall tier list. Conversely, adding a second high-tier DPS when you already have strong damage coverage is less efficient than rounding out your team's utility. The tower-defense layout means each unit occupies a specific position and role on the path, so team synergy often trumps individual unit power.",
+          "Check the unit's role and compare it against your existing squad composition. Units that synergize—for example, a tank that draws aggro while a DPS unit behind it gains a positioning bonus—outperform isolated high-tier units. Similarly, some units may excel in Story mode but underperform in Expedition, where enemy patterns differ. Before investing heavily in leveling, confirm the unit's tier ranking applies to the mode you play most.",
+          "Use ability unlock timing as a decision filter. If a unit's strongest ability unlocks at level 60 and you are still building your roster, you may choose to level a different unit that reaches meaningful power spikes earlier. Conversely, if you have the resources and intend to play long-term, a unit with delayed but powerful unlocks can be worth the wait. Compare the unlock ladder across units in the same role to prioritize leveling order.",
+          "Finally, assess your resource availability. Leveling requires consistent effort and materials. If you are early in the game, focus on a small core team of units that cover all three roles and rank in the upper tiers for your main mode. Once your foundation is stable, you can experiment with lower-ranked units that cover niche roles or excel in specific encounters. Rerolling early on, if you have starting gems, can help you begin with a stronger core unit to avoid wasting materials on weak starters."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Anime Crusaders X tier list Requirements",
+            "description": "Review the active mechanics and prerequisites inside Anime Crusaders X before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Anime Crusaders X patch notes whenever a new update drops."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How should I use the Anime Crusaders X tier list?",
+        "answer": "Treat the tier list as a starting filter, not a final verdict. High-tier units clear most content efficiently, but your available summons and current upgrade resources matter too. Cross-reference a unit's tier position with its role and the game mode you are focusing on before committing gems to leveling it."
+      },
+      {
+        "question": "Do unit rankings change between Story, Infinite, and Expeditions?",
+        "answer": "Yes. Each mode places different demands on your team: Story stages reward consistent wave-clear, Infinite mode favors units with strong sustained output over long runs, and Expeditions introduce conditions that can elevate support or tanky units above pure DPS options. A unit ranked mid-tier overall may still be the best choice for a specific mode."
+      },
+      {
+        "question": "How can I compare units by role in Anime Crusaders X?",
+        "answer": "Start by identifying what role your team is missing — damage output, enemy slow, or survivability support. The units page covers individual characters, their acquisition methods, and abilities in full detail. Once you know what a unit does, match it against the tier rankings here to decide whether it fills your gap at an acceptable investment cost."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "codes",
+      "verification",
+      "units",
+      "updates"
+    ],
+    "lastReviewed": "2026-11-16"
+  },
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Anime Crusaders X Codes: 2026 Active and Expired List",
+    "description": "Check Anime Crusaders X codes, verified rewards, level requirements, and redemption steps. Troubleshoot invalid codes and find official places to check.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Codes",
+      "heading": "Anime Crusaders X Codes: Rewards, Requirements, and Redemption",
+      "lead": "Anime Crusaders X rewards active players with milestone codes tied to community milestones like game likes and favorites. Redeem them in-game using the dedicated codes menu to claim gems, rerolls, and other rewards. This guide covers verified redemption steps, level requirements, troubleshooting failed redemptions, and where to find new codes as they are announced."
+    },
+    "sections": [
+      {
+        "id": "anime-crusaders-x-codes-what-to-check-first",
+        "heading": "Anime Crusaders X Codes: What to Check First",
+        "intro": "Anime Crusaders X distributes reward codes tied to official community milestones. The game's official Roblox listing announces new codes when the game reaches 375K Likes and 150K Favorites, signaling that code releases are an established part of the game's player retention strategy. This means codes are regularly added as the community grows, and players should expect periodic updates rather than a fixed permanent list.",
+        "paragraphs": [
+          "Codes in Anime Crusaders X reward gems, rerolls, and other progression items. According to the official game description, joining the group and liking the game grants a starting bonus of 1K+ gems and rerolls—a reward mechanic that demonstrates how the game ties codes and bonuses to community engagement. Understanding this link helps players recognize when new codes are likely to drop and why the game encourages following official announcements.",
+          "The official communications server is the primary channel where new codes are released. The game's listing explicitly directs players to join the communications server to stay updated with exclusive codes, news, and sneak peeks. This means checking the server first is the fastest way to find active codes before they spread to third-party guides, ensuring you claim rewards while they remain valid."
+        ],
+        "table": {
+          "caption": "Anime Crusaders X codes Verification & Redemption Status",
+          "columns": [
+            "Channel / Milestone",
+            "Status",
+            "Expected Reward Type",
+            "How to Verify"
+          ],
+          "rows": [
+            [
+              "In-Game Codes Menu",
+              "Active Check",
+              "Boosts, Currency, or Packs",
+              "Open the Codes button in the main HUD"
+            ],
+            [
+              "Official Roblox Listing",
+              "Tracked",
+              "Like Milestone Codes",
+              "Check the official game description after updates"
+            ],
+            [
+              "Community Group / Discord",
+              "Tracked",
+              "Patch & Event Drops",
+              "Join the verified creator group before redeeming"
+            ]
+          ]
+        },
+        "bullets": [
+          "Codes are unlocked at community milestones (375K Likes, 150K Favorites).",
+          "Rewards typically include gems, rerolls, and progression items.",
+          "Official communications server is the primary source for new code announcements.",
+          "Joining the group and liking the game provides an additional starting bonus."
+        ]
+      },
+      {
+        "id": "active-anime-crusaders-x-codes-and-verified-rewards",
+        "heading": "Active Anime Crusaders X Codes and Verified Rewards",
+        "intro": "Anime Crusaders X ties code releases to official community milestones. The game's official listing announces new codes when the experience reaches 375K likes and 150K favorites. These milestone-based codes reward players with gems, rerolls, and other progression items.",
+        "paragraphs": [
+          "Because codes are released in response to live community engagement rather than on a fixed schedule, the exact active code strings change over time. The most reliable source for current codes is the official communications server linked in the game's Roblox listing, where the developers post new codes immediately after milestone thresholds are crossed.",
+          "Third-party player guides and community wikis also maintain updated code lists compiled from player reports and server announcements. If you are looking for codes that may have been released recently, check the official communications server first, then cross-reference active community resources like the Anime Crusaders X wiki or dedicated player guide pages to confirm which codes are currently working.",
+          "Each code typically grants a one-time reward per account. Rewards commonly include gems (the premium currency used for summoning and rerolls), rerolls to reset your summon session, or other progression boosters. The exact reward amount is tied to the milestone code itself—higher milestones or community celebrations may offer larger payouts."
+        ],
+        "bullets": [
+          "Check the official communications server for newly announced codes tied to 375K likes and 150K favorites milestones",
+          "Cross-check active codes on community wikis or third-party player guides to confirm they have not yet expired",
+          "Each code grants a one-time reward; rewards typically include gems and rerolls for summoning",
+          "Codes change as the game reaches new community milestones, so revisit official channels periodically"
+        ]
+      },
+      {
+        "id": "how-to-redeem-anime-crusaders-x-codes-in-game",
+        "heading": "How to Redeem Anime Crusaders X Codes In-Game",
+        "intro": "To redeem an Anime Crusaders X code, first launch the game and locate the codes menu from the main interface. According to player guides documenting the redemption workflow, you'll enter the dedicated codes section where a text input field accepts code strings.",
+        "paragraphs": [
+          "Once you've navigated to the codes menu, type or paste the code exactly as provided—codes are case-sensitive, so verify spelling and capitalization match the announcement. After entering the code, select the redeem or claim button to process it.",
+          "If redemption succeeds, your reward (typically gems, rerolls, or other items) will be added to your account inventory immediately. The code will then be marked as redeemed and cannot be used again on the same account.",
+          "Level requirements may apply to certain codes; if you receive an error stating your account level is too low, complete more main-stage waves or progression tasks to unlock higher-tier rewards. Some codes are tied to specific milestones announced by the developers—375K Likes and 150K Favorites each trigger a new code—so codes typically remain active until the next milestone is reached or the developers explicitly retire them.",
+          "If a code fails to redeem, double-check the spelling, ensure no extra spaces are present, and confirm the code has not already expired. Codes announced in the communications server or official game listing are the most reliable source; codes shared only in informal channels may be outdated or incorrect. If you encounter persistent redemption errors after verifying the code string, check the verification page for account-level issues that might prevent claiming rewards."
+        ],
+        "steps": [
+          {
+            "heading": "Launch Anime Crusaders X on Roblox",
+            "description": "Open the official Anime Crusaders X experience and wait for your character to load into the main lobby."
+          },
+          {
+            "heading": "Locate the Redemption Interface",
+            "description": "Look for the Codes, Shop, or Settings button along the side or top HUD navigation bar."
+          },
+          {
+            "heading": "Enter and Confirm Exact Code Text",
+            "description": "Paste the code with exact capitalization and press Redeem to verify whether the reward is active."
+          }
+        ]
+      },
+      {
+        "id": "level-requirements-and-code-redemption-troubleshooting",
+        "heading": "Level Requirements and Code Redemption Troubleshooting",
+        "intro": "If a code fails to redeem, check for common issues first. Codes are case-sensitive and must be entered exactly as announced, including capitalization and spacing. Expired codes no longer work once their redemption window closes or a new milestone replaces them. Some codes may require a minimum account level or specific in-game progress before they can be claimed.",
+        "paragraphs": [
+          "If redemption is blocked by an account-level requirement, the game typically displays a message indicating the restriction. Players reporting verification requirements should check the verification page for the confirmed process and troubleshooting steps. Ensure the code was copied correctly from an official or verified community source, as mistyped characters will prevent redemption.",
+          "When all entry steps are correct but the code still fails, the code has likely expired or reached its use limit. New milestone codes replace previous ones as the game's community milestones advance, so always confirm the code is current before attempting redemption."
+        ]
+      },
+      {
+        "id": "where-new-anime-crusaders-x-codes-are-announced",
+        "heading": "Where New Anime Crusaders X Codes Are Announced",
+        "intro": "New Anime Crusaders X codes are released when the game reaches community milestones such as 375,000 Likes or 150,000 Favorites on Roblox. The official game listing promotes these milestone thresholds and directs players to a communications server for codes, news, and previews. Check the game's description page and join the official communications server to receive announcements as soon as new codes go live.",
+        "paragraphs": [
+          "Player-run wikis and third-party guides also track and republish codes after they are announced through official channels. If you miss an announcement in the communications server, these community resources can help you catch up on recently released codes. Keep in mind that codes may expire or be replaced when new milestones are reached, so redeeming them promptly is recommended."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where do I enter codes in Anime Crusaders X?",
+        "answer": "Open the game and navigate to the codes menu from the main interface. Enter the code string exactly as provided—codes are case-sensitive. Select Redeem and confirm to claim your rewards immediately."
+      },
+      {
+        "question": "Why is my Anime Crusaders X code invalid or expired?",
+        "answer": "Codes expire after their milestone window closes or after a set redemption period. Double-check the code for typos, spacing, or case errors. If the error persists, the code may have reached its redemption limit or been deactivated. Visit the game's official communications server or community wiki for the current active list."
+      },
+      {
+        "question": "Do Anime Crusaders X codes have a level requirement?",
+        "answer": "Most Anime Crusaders X codes do not have a hard level gate, but some rewards may be restricted until you progress further or complete account verification. Check the reward details before redeeming and see the verification guide if you encounter account-related blocks."
+      },
+      {
+        "question": "Where are new Anime Crusaders X codes announced?",
+        "answer": "New codes are announced when community milestones are reached, such as game likes or favorites. The official Roblox listing and the developer's communications server are the primary sources. Player wikis and community guides aggregate these codes quickly after release."
+      },
+      {
+        "question": "How can I tell whether an Anime Crusaders X code is verified?",
+        "answer": "Codes posted on the official Roblox page, developer communications server, and major community wikis (animecrusadersx.wiki and animecrusadersxwiki.wiki) are actively maintained and tested. Cross-check codes across multiple community sources before assuming they are expired."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "tier-list",
+      "verification",
+      "units",
+      "updates"
+    ],
+    "lastReviewed": "2026-11-16"
+  },
+  {
+    "enabled": true,
+    "slug": "verification",
+    "pageType": "guide",
+    "navLabel": "Verification",
+    "title": "Anime Crusaders X Verification: 2026 Requirements Guide",
+    "description": "Learn what Anime Crusaders X verification requires, where to find the confirmed process, and how to troubleshoot common failures without relying on unverified.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Anime Crusaders X Verification: Confirmed Process and Help",
+      "lead": "Anime Crusaders X verification is not a documented in-game requirement based on the official game listing. The term likely refers to confirming you are playing the authentic 32x experience on Roblox, resolving account access issues, or checking community updates. This guide explains how to locate the official game using its place ID, where to find developer announcements, and how to ensure your account meets the starting requirements. Use the verified details below to access the correct game and troubleshoot common access issues."
+    },
+    "sections": [
+      {
+        "id": "what-verification-means-in-anime-crusaders-x",
+        "heading": "What Verification Means in Anime Crusaders X",
+        "intro": "Anime Crusaders X verification is not a formal in-game checkpoint. The term most likely refers to confirming you are playing the authentic Roblox experience by 32x, resolving account access issues, or checking for developer announcements before you start. The official listing presents the game as an anime tower-defense adventure in which you lead a team of units against waves of enemies. If you see a third-party mention of verification, it typically means ensuring your session connects to the correct place ID or that your account meets any starting requirements the developer has set.",
+        "paragraphs": [
+          "The core loop involves collecting anime characters, leveling them to unlock abilities, and deploying them in tower-defense formations to survive enemy waves across multiple worlds. For a full breakdown of summoning mechanics, team composition, and progression systems, see the homepage guide."
+        ],
+        "table": {
+          "caption": "Anime Crusaders X verification Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Anime Crusaders X core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "where-to-find-the-verification-prompt",
+        "heading": "Where to Find the Verification Prompt",
+        "intro": "The official game listing directs players to join the developer's communications server for exclusive codes, news, and sneak peeks. This server is the primary channel where the developers announce milestone rewards tied to game milestones like likes and favorites. Access the server through the link provided on the official Roblox game page to stay informed about new codes and updates.",
+        "paragraphs": [
+          "Milestone codes are released as the game reaches community milestones—for example, codes unlock at 150K Favorites and 375K Likes. The communications server announces these codes as they become available, so joining ensures you don't miss time-limited rewards. For the full list of current codes and step-by-step redemption instructions, see the codes page.",
+          "Once you have joined the communications server, you can verify your access to the authentic Anime Crusaders X experience by confirming you are in the correct server and have permission to view announcements. This server connection confirms you are following official developer communications rather than third-party sources, ensuring you receive accurate information about verification status, new codes, and gameplay updates."
+        ]
+      },
+      {
+        "id": "confirmed-verification-steps",
+        "heading": "Confirmed Verification Steps",
+        "intro": "To confirm you are accessing the authentic Anime Crusaders X experience, match the Roblox place ID 107573139811370 in the game's URL or listing. This identifier corresponds to the official [RELEASE] Anime Crusaders X by 32x and ensures you are joining the verified tower-defense adventure rather than an imitation or outdated version.",
+        "paragraphs": [
+          "Once you have confirmed the place ID, launch the experience from the Roblox platform. There is no separate verification prompt or account-linking step required to start playing. If you joined the group and liked the game, the advertised starting gems and rerolls should appear automatically in your account; see the homepage for full details on summoning costs and starting resources."
+        ]
+      },
+      {
+        "id": "requirements-and-information-to-check-before-starting",
+        "heading": "Requirements and Information to Check Before Starting",
+        "intro": "Before launching Anime Crusaders X, confirm you have a Roblox account in good standing and verify the game's place ID is 107573139811370. This ensures you're accessing the authentic 32x experience. Once you enter, you'll receive starting gems to begin your first summons.",
+        "paragraphs": [
+          "The official listing advertises bonus starting gems and rerolls when you join the developer's group and like the game. These bonuses are promoted as part of the onboarding experience. For confirmed current reward codes and milestone bonuses, visit the codes page for up-to-date details on what you can claim immediately after joining.",
+          "Your account will need basic Roblox access to collect characters and level units once you start. No additional verification steps are required beyond standard Roblox account requirements. For a full breakdown of summoning costs, starting resources, and early progression strategy, refer to the homepage guide."
+        ]
+      },
+      {
+        "id": "how-to-confirm-verification-is-complete",
+        "heading": "How to Confirm Verification Is Complete",
+        "intro": "Once you are inside the game, the clearest sign that your session is running correctly is that core mechanics respond immediately: you can summon characters, place units on the map, and begin defending against enemy waves. If the summoning interface loads and your starting gems are present, your access is working as expected.",
+        "paragraphs": [
+          "From there, leveling a unit confirms the progression system is active. Leveling unlocks additional abilities for that unit, so if you see an ability slot open after gaining experience, the session is fully functional. For a detailed breakdown of which units are worth investing in and how their abilities differ, the Anime Crusaders X best units guide covers team building and upgrade paths.",
+          "If any of these actions fail to respond — units do not place, the summon screen does not open, or gems do not appear — the most likely cause is a mismatched game version rather than a verification step. Return to the Roblox search results, confirm you are in the experience listed under place ID 107573139811370, and rejoin."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Anime Crusaders X verification Requirements",
+            "description": "Review the active mechanics and prerequisites inside Anime Crusaders X before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Anime Crusaders X patch notes whenever a new update drops."
+          }
+        ],
+        "bullets": [
+          "Summon screen loads and displays your gem balance on entry",
+          "Units can be placed on the map and engage incoming enemy waves",
+          "Leveling a unit triggers an ability unlock, confirming progression is active",
+          "If any step fails, verify the place ID and rejoin rather than troubleshooting in-session"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What does verification mean in Anime Crusaders X?",
+        "answer": "The official game description presents Anime Crusaders X as an anime tower-defense adventure where you lead units against enemy waves, without mentioning a verification step. The term likely refers to confirming you are in the authentic game or resolving a Roblox account access issue."
+      },
+      {
+        "question": "Where do I find the verification prompt?",
+        "answer": "No verification prompt is documented in the official Roblox listing. The game's developer promotes a communications server for exclusive codes, news, and sneak peeks, which is the best place to look for official announcements or changes to access requirements."
+      },
+      {
+        "question": "What should I do if Anime Crusaders X verification fails?",
+        "answer": "If you experience an access failure, first ensure you are launching the correct game by checking the developer name 32x and place ID 107573139811370. You can also verify your Roblox account status and confirm you have met any group joining or liking requirements for starting bonuses."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "tier-list",
+      "codes",
+      "units",
+      "updates"
+    ],
+    "lastReviewed": "2026-11-16"
+  },
+  {
+    "enabled": true,
+    "slug": "units",
+    "pageType": "database",
+    "navLabel": "Units",
+    "title": "Anime Crusaders X Best Units: 2026 Team Guide – Roblox Guide",
+    "description": "Compare Anime Crusaders X units by role, cost, coverage, and upgrade value. Build a balanced team, read tier lists carefully, and check confirmed evolution.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Database",
+      "heading": "Anime Crusaders X Best Units: Team Building and Upgrade Guide",
+      "lead": "Anime Crusaders X units are collectible anime characters you deploy in tower-defense formation to block enemy waves and defend your base. Each unit has distinct abilities, roles (DPS, Support, Tank), and unlock conditions through leveling. This guide explains how to compare units by role and cost, build a balanced early team, read tier lists critically, and verify evolution recipes before committing rare materials."
+    },
+    "sections": [
+      {
+        "id": "what-to-check-before-choosing-anime-crusaders-x-units",
+        "heading": "What to Check Before Choosing Anime Crusaders X Units",
+        "intro": "Before committing to any unit, verify five factors that determine fit and value. First, confirm the unit's role—DPS units deal direct damage to enemies, Support units enhance team performance or debilitate foes, and Tank units absorb damage while blocking lanes. Second, check the ability unlock level; some units gain critical crowd-control or area attacks only after reaching level 10 or higher, making them weak in early waves. Third, assess acquisition cost and rarity; limited summon banners or event-exclusive units may require more gems or rerolls than standard pool characters.",
+        "paragraphs": [
+          "Fourth, evaluate mode suitability. A unit ranked highly in Infinite mode may underperform in Story mode if its strengths depend on endless wave scaling or specific enemy types that Story chapters lack. Finally, review upgrade requirements before investing materials. Evolution recipes and ability-level costs vary widely, and spending rare items on a unit that becomes obsolete in your next progression stage wastes resources you cannot recover easily."
+        ],
+        "table": {
+          "caption": "anime crusaders x best units Evaluation & Priority Matrix",
+          "columns": [
+            "Tier / Category",
+            "Primary Role",
+            "Unlock Stage",
+            "Recommended Focus"
+          ],
+          "rows": [
+            [
+              "S-Tier (Meta Core)",
+              "High scaling & boss clear",
+              "Mid to Late Game",
+              "Prioritize upgrades and main loadout slot"
+            ],
+            [
+              "A-Tier (Reliable)",
+              "Consistent farming & utility",
+              "Early to Mid Game",
+              "Use as transitional carry until top-tier unlock"
+            ],
+            [
+              "B-Tier (Starter)",
+              "Basic progression & entry loop",
+              "Starter / Tutorial",
+              "Replace once first milestone resources are secured"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "building-a-balanced-early-team",
+        "heading": "Building a Balanced Early Team",
+        "intro": "Anime Crusaders X requires you to deploy a team of units in tower-defense formation to block enemy waves and defend your base. Each unit fills a specific role—DPS to eliminate threats, Support to buff allies or debuff enemies, and Tank to absorb damage—and you unlock their abilities by leveling. A balanced early team typically includes two DPS units, one Support, and one Tank, though you can adjust this ratio depending on the stage difficulty and available unit slots.",
+        "paragraphs": [
+          "Start by investing in units that cost fewer resources to level and unlock their first ability quickly. DPS units should be your first priority because early waves reward fast eliminations more than prolonged survival. Once your primary DPS reaches its second ability, shift resources to a Tank that can hold chokepoints, then add a Support unit to extend your team's effective uptime. Avoid spreading materials evenly across all units; concentrated investment in two or three core units will carry you further than four underleveled characters.",
+          "Stop investing in a unit when its next ability unlock requires materials that would delay your next unit's first ability by more than two levels. At that point, pivot to the next role gap in your roster. Re-evaluate your lineup after each major stage milestone or when you unlock a higher-rarity unit that outperforms your current roster in its role. The game does not penalize swapping units, so testing new compositions is low-risk once you meet the base leveling requirements."
+        ]
+      },
+      {
+        "id": "how-to-read-unit-tier-lists-critically",
+        "heading": "How to Read Unit Tier Lists Critically",
+        "intro": "Tier lists are useful reference tools, but they reflect specific game conditions and the creator's priorities at a single moment in time. A unit ranked S-tier in one context may perform differently in another, so understanding what drives the ranking helps you make better decisions about which units to invest in first.",
+        "paragraphs": [
+          "The most common factor behind tier-list variation is game mode. Story mode rewards sustained damage and crowd control to manage predictable enemy patterns, while Infinite mode (endless waves with scaling difficulty) heavily favors burst damage and units that clear waves before they overwhelm your formation. A unit excelling at precise single-target elimination might rank high in Story but drop significantly in Infinite, where area-of-effect abilities clear multiple enemies faster. Check the tier list's header or description to see which mode it covers; if unlabeled, assume it reflects the creator's primary focus.",
+          "Damage output and coverage trade-offs also shift rankings. High-damage units that target one enemy at a time deal impressive numbers but may struggle when facing many weak enemies simultaneously. Conversely, units with moderate damage but broad coverage can weaken or eliminate multiple threats per ability use. Early-game teams often benefit more from coverage, while late-game optimized teams may rely on burst damage to delete priority targets before they reach your base. This trade-off means the same unit ranks differently depending on whether the tier list prioritizes raw damage or practical wave-clear speed.",
+          "Ability unlock level dramatically changes unit value. A unit's core strength often emerges only after leveling unlocks its signature ability; before that unlock, it may perform adequately but unremarkably. Tier lists created with max-level units reflect their full potential, not their early-game performance. If you're new or early-stage, a unit ranked A-tier might not feel strong until you invest significantly in leveling. Conversely, some units provide immediate utility at low levels, making them better starter investments even if they don't reach the same ceiling as late-bloomers.",
+          "Several red flags indicate when a tier list may not apply to your situation. If the tier list has no date or last-update timestamp, game balance changes may have shifted unit performance since it was created. If it doesn't specify the creator's account progression stage, the rankings may reflect endgame optimization rather than early-game reality. Lists that don't mention ability levels assume max unlock, which is unrealistic for new players. If the list conflates multiple game modes without clear sections, treat individual unit positions as rough guidance rather than absolute truth. Finally, tier lists from casual players are valuable perspectives but lack the same rigor as lists backed by controlled testing or community consensus; use multiple sources to identify trends rather than relying on a single creator.",
+          "The best approach is to cross-reference two or three tier lists, note which units appear consistently high across different sources, and then verify those units' abilities and roles match your current team needs and progression stage. Use tier lists as a starting point, not a final answer."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current anime crusaders x best units Requirements",
+            "description": "Review the active mechanics and prerequisites inside Anime Crusaders X before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Anime Crusaders X patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "unit-roles-explained-dps-support-and-tank",
+        "heading": "Unit Roles Explained: DPS, Support, and Tank",
+        "intro": "In Anime Crusaders X's tower-defense structure, every unit fills one of three core roles that determine how it contributes to wave defense. Understanding these roles helps you build a team where each member serves a clear purpose rather than duplicating effort. The three primary roles are DPS (damage per second), Support, and Tank, each with distinct responsibilities during combat.",
+        "paragraphs": [
+          "DPS units are your primary damage dealers and coverage specialists. These units focus on dealing consistent or burst damage to incoming enemy waves, and many DPS units also provide horizontal or vertical coverage—meaning they attack multiple lanes or heights simultaneously. In a tower-defense layout where enemies approach from different angles or elevations, DPS units with wide coverage prevent gaps that enemies can slip through. Leveling DPS units unlocks new abilities that often enhance their damage output or expand their attack range, making them essential for progressing through harder waves.",
+          "Support units amplify your team's effectiveness without dealing heavy damage themselves. They apply buffs to nearby allies—such as increased attack speed, damage multipliers, or healing—and many also apply debuffs to enemies like slowing, weakening, or disabling. Support units act as force multipliers: a single well-placed Support unit can turn your entire lineup's output. Their abilities unlock through leveling just like other units, often introducing new buff types or extending the range and duration of their effects.",
+          "Tank units prioritize durability and wave blocking. They absorb incoming damage, slow enemy advance, and hold positions on the map to create defensive walls. Tanks often have high health pools and defensive abilities that reduce incoming damage or redirect enemy attention. While they deal minimal damage themselves, their role is foundational: without proper blocking, even high-damage DPS units cannot prevent waves from reaching and destroying your base.",
+          "The balance between these three roles depends on your progression stage and the specific waves you face. Early-game teams often lean toward DPS with one Tank to establish a defensive line. As you unlock more units and advance, mixing in Support units allows your existing DPS to punch above their weight, extending your survivability without requiring proportionally more tanks. Understanding which enemy waves prioritize different attack patterns—single-lane rushes versus multi-lane spreads, ground versus aerial threats—helps you decide whether to specialize or diversify your role composition."
+        ],
+        "bullets": [
+          "DPS units deal primary damage and provide coverage; leveling unlocks damage or range upgrades.",
+          "Support units apply buffs to allies and debuffs to enemies, multiplying team effectiveness.",
+          "Tank units block waves and absorb damage; they are foundational, not optional.",
+          "Early teams often use DPS + one Tank; later, Support units multiply existing output without adding more tanks."
+        ]
+      },
+      {
+        "id": "comparing-units-by-cost-coverage-and-upgrade-value",
+        "heading": "Comparing Units by Cost, Coverage, and Upgrade Value",
+        "intro": "Summoning cost in Anime Crusaders X typically scales with rarity, but higher rarity does not guarantee better performance in every team or wave scenario. Before spending gems on a summon, check whether the unit fills a gap in your current roster—such as area-of-effect damage for multi-lane maps or single-target burst for boss waves—rather than chasing the highest tier label. A mid-rarity unit that covers a missing role often delivers more immediate value than a duplicate high-rarity card.",
+        "paragraphs": [
+          "Ability unlock costs rise with each level, and the game requires you to level units to unlock their full skill set. Prioritize leveling units you deploy frequently over benched alternatives, even if a tier list ranks the benched unit higher in late-game contexts. Track which abilities unlock at which levels and plan your material spend around breakpoints that grant meaningful power spikes, such as crowd-control abilities or defense-penetration skills.",
+          "Evolution material scarcity forces long-term planning. Some evolutions demand rare drops or event-limited items, so confirm the full recipe and drop sources before committing. If a unit's final evolution requires materials you cannot farm consistently, consider whether a fully upgraded common unit will serve your team better in the near term than a half-evolved rare sitting on your bench.",
+          "When rotating units out of your active lineup, check whether the game offers a resale or fodder system that reclaims part of your investment. If no such system exists, treat every upgrade as a permanent commitment and avoid spreading resources across multiple units in the same role unless you have verified backup use cases for them in separate game modes."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What should I compare when choosing which Anime Crusaders X units to level?",
+        "answer": "Compare role (DPS, Support, Tank), ability unlock level requirements, acquisition or evolution cost, mode suitability (Story vs. Infinite waves), and how the unit's coverage fits gaps in your current team. A high-tier unit may not be worth leveling early if it requires scarce materials or if your team already has similar coverage. Prioritize units that unlock new abilities at your current level and fill an immediate role gap."
+      },
+      {
+        "question": "How do I build a balanced early team without wasting resources?",
+        "answer": "Start with a mix of at least one DPS unit for damage, one Support unit for buffs or debuffs, and one Tank unit for durability. Level units in order of ability unlock thresholds rather than maxing one unit at a time; this spreads your resources and unlocks new mechanics faster. Avoid investing heavily in units until you confirm their role fits your current mode and roster gaps."
+      },
+      {
+        "question": "Can I trust tier lists to tell me which units are best?",
+        "answer": "Tier lists are useful frameworks, but they rank units under specific conditions—usually Story mode or Infinite waves at a certain level cap. A unit ranked S-tier for Story may perform differently in Expedition mode or if you lack its evolution materials. Always cross-check a tier list's publish date, confirmed mode, and role assumption before committing rare resources. Your team's current gaps matter more than a unit's absolute ranking."
+      },
+      {
+        "question": "Where do I find verified evolution recipes and material sources?",
+        "answer": "Evolution recipes and material sources are documented in player guides and community wikis linked on the Anime Crusaders X home page. Always verify a recipe in multiple sources before spending rare materials; incorrect or outdated recipes are a common source of wasted resources. Check the wiki's last update date and cross-reference with in-game tooltips if available."
+      },
+      {
+        "question": "Should I follow tier lists blindly or test units in my game mode first?",
+        "answer": "Test units in your active game mode before heavy investment. A unit's tier rank reflects average performance across conditions, but your specific team composition, level cap, and mode may reward different units. Spend initial resources on low-cost units that cover your immediate gaps, then experiment before committing to expensive evolutions."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "tier-list",
+      "codes",
+      "verification",
+      "updates"
+    ],
+    "lastReviewed": "2026-11-16"
+  },
+  {
+    "enabled": true,
+    "slug": "updates",
+    "pageType": "updates",
+    "navLabel": "Updates",
+    "title": "Anime Crusaders X Release Date: 2026 Update Status",
+    "description": "Check the latest confirmed Anime Crusaders X release and update status, find patch notes, and learn where to verify announcements and distinguish planned.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Updates",
+      "heading": "Anime Crusaders X Release Date and Update Status",
+      "lead": "Anime Crusaders X is live on Roblox under the [RELEASE] tag by developer 32x, place ID 107573139811370. The game announces new codes at 375K Likes and 150K Favorites, and players check the official listing and communications server for patch notes and content drops. This page covers the current release status, where to find official announcements, and how to distinguish confirmed updates from unverified rumors."
+    },
+    "sections": [
+      {
+        "id": "anime-crusaders-x-release-status-what-is-confirmed",
+        "heading": "Anime Crusaders X Release Status: What Is Confirmed",
+        "intro": "Anime Crusaders X is live on Roblox as a [RELEASE] experience by developer 32x. The game is playable now under place ID 107573139811370. You can find it by searching \"Anime Crusaders X\" on Roblox or visiting the official listing directly.",
+        "paragraphs": [
+          "The game is an anime tower-defense adventure where you summon powerful characters to defend against waves of enemies across multiple worlds. According to the official description, you collect unique units, level them up to unlock new abilities, and build a custom squad to progress through the game.",
+          "The developer announces new codes at specific milestones: a new code unlocks when the game reaches 375K Likes, and another code releases at 150K Favorites. These milestone-based codes are announced through the official communications server, so joining that channel is the most direct way to claim rewards when they drop.",
+          "The official listing also mentions that players who join the in-game group and like the game receive starting gems and rerolls, though the exact current amount and any conditions should be verified in-game when you join. For the most up-to-date patch notes, content changes, and confirmed updates, check the official Roblox listing description and the communications server regularly, as these are the sources the developer uses to share news directly with players."
+        ],
+        "table": {
+          "caption": "anime crusaders x release date Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Anime Crusaders X core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "where-to-find-the-current-roblox-release",
+        "heading": "Where to Find the Current Roblox Release",
+        "intro": "Anime Crusaders X is live on Roblox as [RELEASE] Anime Crusaders X by developer 32x. The game's Roblox place ID is 107573139811370. You can find it by searching for the title directly in the Roblox app or on the Roblox website, or by visiting the experience using the place ID link.",
+        "paragraphs": [
+          "The official listing confirms the game is an anime tower-defense adventure where you collect powerful characters, lead a team of units against enemy waves, and level up your roster to unlock new abilities. The experience page also advertises starting gems and rerolls for players who join the official group and like the game.",
+          "To stay informed about new codes, patch notes, and content updates, the official listing directs players to join the communications server. Milestone codes are announced when the game reaches 375K Likes and 150K Favorites, so following the server ensures you don't miss limited-time rewards."
+        ]
+      },
+      {
+        "id": "latest-update-notes-and-changes",
+        "heading": "Latest Update Notes and Changes",
+        "intro": "Anime Crusaders X announces updates through its official Roblox listing and communications server. The game's description confirms core mechanics—collecting characters, leveling units to unlock abilities, and leading a team against waves of enemies in tower-defense style combat. New codes appear at milestone likes and favorites thresholds: a code is promised at 375K Likes and another at 150K Favorites. Players who join the official group and like the game receive 1,000+ starting gems and rerolls as a documented reward.",
+        "paragraphs": [
+          "To check for the latest patch notes and content changes, visit the official game listing on Roblox (place ID 107573139811370) and join the communications server linked in the description. The server is the primary source for exclusive codes, news, and sneak peeks about upcoming content. Any detailed patch notes, balance adjustments, or new features are published there first, rather than on third-party wikis or community guides.",
+          "Third-party player guides document gameplay controls, game modes, and redemption steps, but these reflect community documentation rather than official patch announcements. Always cross-check the official Roblox listing and communications server for the most current confirmed changes before relying on external sources."
+        ]
+      },
+      {
+        "id": "how-to-check-official-update-announcements",
+        "heading": "How to Check Official Update Announcements",
+        "intro": "The developer announces new codes at 375K Likes and 150K Favorites through the official Roblox listing and the communications server promoted in the game description. Players join the communications server for exclusive codes, news, and sneak peeks, and monitor the listing description for milestone announcements and content updates.",
+        "paragraphs": [
+          "To confirm the latest release information, visit the official Roblox place ID 107573139811370 and check the About tab for the current description. New codes and patch notes appear in the communications server first, then propagate to the listing. The game description does not display active redeemable strings directly; instead, it announces when new codes will drop at specific milestones."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current anime crusaders x release date Requirements",
+            "description": "Review the active mechanics and prerequisites inside Anime Crusaders X before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Anime Crusaders X patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "planned-content-rumors-and-unconfirmed-release-claims",
+        "heading": "Planned Content, Rumors, and Unconfirmed Release Claims",
+        "intro": "Community guides and third-party sources occasionally report upcoming content or share gameplay tips, but these reports are not officially confirmed by the developer. Player-created guides like 'Anime Crusaders X Codes' document community experiences and redemption methods, while wikis such as 'Anime Crusaders Trello & Wiki Link' compile player observations about gamemodes and controls. However, without direct verification from 32x, claims about unreleased features, patch timelines, or experimental mechanics should be treated as speculation rather than roadmap.",
+        "paragraphs": [
+          "The official Roblox listing and communications server remain the authoritative sources for what is live and what is planned. If you encounter claims about upcoming units, balance changes, or content drops on Discord, Reddit, or fan wikis, cross-check them against the official announcement channels before adjusting your play strategy. Developer posts in the communications server, milestone announcements tied to Likes and Favorites, and updates to the game description itself are the confirmed touchstones for distinguishing real changes from rumor.",
+          "New players sometimes confuse early-access feedback or beta suggestions with confirmed features. Anime Crusaders X may have a development roadmap discussed in the communications server, but third-party guides capture snapshot information that can become outdated between patches. Always verify the publication date and check the official listing description to confirm whether a reported feature or code is still active."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where can I check the current Anime Crusaders X release status?",
+        "answer": "The game is live on Roblox under place ID 107573139811370, published by 32x with the [RELEASE] tag. Search the exact title in the Roblox app or web browser to confirm you're accessing the authentic experience. The official listing shows current community milestones and advertises new codes at 375K Likes and 150K Favorites."
+      },
+      {
+        "question": "How do you check for new updates in Anime Crusaders X?",
+        "answer": "Join the developer's communications server, which the official listing promotes for exclusive codes, news, and sneak peeks. The server announces milestone codes and content drops. You can also revisit the Roblox listing to see if the description or version tag has changed, though the server provides earlier and more detailed notices."
+      },
+      {
+        "question": "Are third-party patch notes and release dates verified?",
+        "answer": "Third-party player guides report codes and gameplay steps, but these are untested community reports rather than official confirmations. Always cross-reference claims with the official Roblox listing or the developer's communications server. If a third-party site lists a release date or patch content not mentioned by 32x, treat it as speculative until the developer confirms it."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "tier-list",
+      "codes",
+      "verification",
+      "units"
+    ],
+    "lastReviewed": "2026-11-16"
+  }
+]

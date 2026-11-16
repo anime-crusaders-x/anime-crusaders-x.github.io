@@ -1,0 +1,198 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Anime Crusaders X Wiki: 2026 Verified Game Guide (Roblox)",
+  "description": "Find the verified Roblox experience, current release information, beginner guidance, unit and tier-list resources, and checked answers for Anime Crusaders X.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Anime Crusaders X Wiki & Guide",
+    "heading": "Anime Crusaders X: Verified Game Guide and Player Hub",
+    "lead": "Anime Crusaders X is a tower-defense Roblox experience by 32x (place ID 107573139811370) where players summon anime characters and defend against enemy waves. The official description confirms collecting units, leveling them to unlock abilities, and building squads. This guide covers the verified Roblox entry point, current release status, summoning costs, core progression systems, and links to tier lists, codes, and unit databases.",
+    "supportingText": "",
+    "primaryLink": {
+      "label": "Open Tier List",
+      "slug": "tier-list"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/107573139811370"
+    }
+  },
+  "sections": [
+    {
+      "id": "verified-roblox-experience-and-how-to-access-it",
+      "heading": "Verified Roblox Experience and How to Access It",
+      "intro": "Anime Crusaders X is published by 32x on Roblox under place ID 107573139811370. Players can find the authentic experience by searching the exact title in the Roblox app or web client, or by navigating directly to roblox.com/games/107573139811370. The official listing displays the [RELEASE] tag, confirming the game is publicly accessible rather than in closed testing.",
+      "paragraphs": [
+        "To verify you have reached the correct experience, check that the developer field shows 32x and that the place ID matches 107573139811370. Clones and unofficial versions may use similar names but will have different developers and place identifiers. The official listing includes milestone-based code announcements tied to Likes and Favorites, which are visible only on the authentic page."
+      ],
+      "steps": [
+        {
+          "heading": "Check Current Anime Crusaders X Requirements",
+          "description": "Review the active mechanics and prerequisites inside Anime Crusaders X before committing resources."
+        },
+        {
+          "heading": "Complete the Core Progression Loop",
+          "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+        },
+        {
+          "heading": "Verify Post-Update Changes",
+          "description": "Re-check the comparison table and official Anime Crusaders X patch notes whenever a new update drops."
+        }
+      ]
+    },
+    {
+      "id": "current-release-status-and-where-to-check-updates",
+      "heading": "Current Release Status and Where to Check Updates",
+      "intro": "Anime Crusaders X carries the [RELEASE] tag on its official Roblox listing, indicating it is a live, playable experience. Updates and new content are tracked on the dedicated updates page, which logs patch notes, new units, balance changes, and feature releases as they roll out.",
+      "paragraphs": [
+        "The official communications server is the primary channel for announcements, exclusive codes, and development previews. Joining the server ensures you receive news directly from the 32x development team and gain early access to reward codes tied to milestone events—such as codes released at specific like and favorite thresholds.",
+        "To stay informed, visit the updates page regularly and join the communications server via the in-game link. Official patch notes are posted there before wider distribution, making it the most reliable source for upcoming changes and confirmed feature timelines."
+      ],
+      "table": {
+        "caption": "Anime Crusaders X Quick Reference & Progression Overview",
+        "columns": [
+          "Progression Stage",
+          "Core Objective",
+          "Key Mechanic",
+          "Player Priority"
+        ],
+        "rows": [
+          [
+            "Early Game Setup",
+            "Learn Anime Crusaders X core loop",
+            "Initial resource & starter unlock",
+            "Complete tutorial loop before spending currency"
+          ],
+          [
+            "Mid Game Scaling",
+            "Unlock higher multiplier tiers",
+            "Loadout / upgrade synergy",
+            "Focus on repeatable milestones and efficiency"
+          ],
+          [
+            "Endgame & Updates",
+            "Bosses, events, and new worlds",
+            "High-tier drops & patch preparation",
+            "Track official update logs and optimize builds"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "summoning-costs-and-starting-resource-bonuses",
+      "heading": "Summoning Costs and Starting Resource Bonuses",
+      "intro": "When you start Anime Crusaders X, the official game listing advertises bonus gems and rerolls for two actions: joining the developer's group and liking the game. According to the official Roblox description, completing both earns you 1,000+ starting gems plus additional rerolls to help you summon your first units. These bonuses are designed to give new players an immediate resource boost without requiring in-game grinding before your first pulls.",
+      "paragraphs": [
+        "The exact current value of these bonuses and whether any conditional requirements (account age, server region) apply have not been independently tested by player reports in available sources. If you claim the bonuses and the advertised amount does not appear, check that you have joined the official group and liked the game page on Roblox. If the gems still do not arrive, visit the game's communications server (linked on the main game page) to report the issue; the developers post code updates and support information there regularly.",
+        "Because summoning is central to unit collection in tower defense, these starting resources directly affect your early-game team diversity. Plan your first summons carefully: rerolls let you reset and try again if you are unhappy with your initial pull, so you can aim for units that match your preferred playstyle before committing gems to leveling."
+      ]
+    },
+    {
+      "id": "getting-started-core-systems-and-progression",
+      "heading": "Getting Started: Core Systems and Progression",
+      "intro": "Anime Crusaders X is built around a tower-defense loop: you place anime units along a path and they automatically attack enemy waves that advance toward your base. Your job between waves is to manage placement, upgrades, and squad composition rather than direct combat.",
+      "paragraphs": [
+        "Units are your primary resource. You collect them through summoning, and each unit has its own stats and role. Leveling a unit up is how you unlock its abilities, so investing experience into a single character meaningfully changes what it can do in battle rather than just increasing a flat damage number.",
+        "Squad building sits on top of that progression. The game lets you assemble a team from your collected roster, which means early decisions about which units to level affect how quickly you can clear harder waves. The tier list page covers which units are worth that investment, and the units database lists individual abilities and acquisition methods for each character."
+      ],
+      "bullets": [
+        "Place units along the path to intercept enemy waves automatically.",
+        "Collect new characters through summoning to expand your roster options.",
+        "Level units to unlock their abilities, not just raise base stats.",
+        "Build a squad from your collection and adjust it between waves or stages."
+      ]
+    },
+    {
+      "id": "third-party-player-resources-and-attribution",
+      "heading": "Third-Party Player Resources and Attribution",
+      "intro": "Beyond official channels, several player-created guides document gameplay mechanics and redemption instructions for Anime Crusaders X. These resources are maintained by community members and reflect their testing and compilation efforts, not official developer confirmation. Always verify any claims against in-game behavior, as third-party guides may lag behind patches or contain untested reports.",
+      "paragraphs": [
+        "A community guide titled 'Anime Crusaders X Codes (November 2026)' catalogs redemption codes and step-by-step redemption procedures. Because these codes and methods are reported by players rather than sourced from official patch notes or developer announcements, treat them as community findings—confirm each code works in your game client before investing resources based on the guide's claims.",
+        "Another player resource, 'Anime Crusaders Trello & Wiki Link - Gamemodes, Controls,' provides compiled information on game modes, control schemes, and basic strategy. This guide centralizes controls and mode explanations in one place, which can save time versus discovering them through solo play. However, since it reflects player documentation rather than official specs, cross-check any mechanic descriptions with your own gameplay experience.",
+        "For the most current and authoritative information, always check the official Roblox game page, join the communications server linked in the game, and watch for official patch notes. Community guides are most useful as quick references and as starting points for deeper questions—not as replacements for official sources or personal verification."
+      ]
+    },
+    {
+      "id": "approved-player-needs",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Explore Anime Crusaders X Guides & Resources",
+      "intro": "Browse our dedicated Anime Crusaders X guides covering active redeem codes, beginner progression, tier lists, and core gameplay mechanics.",
+      "links": [
+        {
+          "label": "Anime Crusaders X Tier List",
+          "slug": "tier-list",
+          "description": "Compare Anime Crusaders X units by tier, role, and game mode. Use the rankings to weigh team fit and investment, and check what evidence supports each."
+        },
+        {
+          "label": "Anime Crusaders X Codes",
+          "slug": "codes",
+          "description": "Check Anime Crusaders X codes, verified rewards, level requirements, and redemption steps. Troubleshoot invalid codes and find official places to check."
+        },
+        {
+          "label": "Anime Crusaders X Verification",
+          "slug": "verification",
+          "description": "Learn what Anime Crusaders X verification requires, where to find the confirmed process, and how to troubleshoot common failures without relying on unverified."
+        },
+        {
+          "label": "Anime Crusaders X Best Units",
+          "slug": "units",
+          "description": "Compare Anime Crusaders X units by role, cost, coverage, and upgrade value. Build a balanced team, read tier lists carefully, and check confirmed evolution."
+        },
+        {
+          "label": "Anime Crusaders X Release Date",
+          "slug": "updates",
+          "description": "Check the latest confirmed Anime Crusaders X release and update status, find patch notes, and learn where to verify announcements and distinguish planned."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "How do you play Anime Crusaders X on Roblox?",
+      "answer": "Search for the experience by developer 32x or use place ID 107573139811370. The game is a tower-defense adventure where you lead a team of anime units against enemy waves. Collect characters through summoning, level them to unlock abilities, and build squads for different challenges."
+    },
+    {
+      "question": "Where can I find the verified Anime Crusaders X experience?",
+      "answer": "The official Roblox listing is titled [RELEASE] Anime Crusaders X by 32x, with place ID 107573139811370. Always check the developer name and place ID to avoid imitations. The Roblox page displays current player counts, favorites, and the official description."
+    },
+    {
+      "question": "Does Anime Crusaders X have working codes or free rewards?",
+      "answer": "The official description mentions milestone codes at 375K likes and 150K favorites, plus advertised starting gems and rerolls for group join and like. The codes page tracks community-reported redemption strings and explains requirements. No codes have been independently verified by this guide."
+    },
+    {
+      "question": "Where can I find Anime Crusaders X updates and patch notes?",
+      "answer": "The official description promotes a communications server for codes, news, and previews, though no direct Discord link was provided in the Roblox listing. The updates page on this site summarizes community-reported changes and release timing. Check the Roblox game page for the latest official announcements."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/107573139811370",
+      "title": "[RELEASE] Anime Crusaders X",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://animecrusadersx.wiki/",
+      "title": "Anime Crusaders X Wiki",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://animecrusadersxwiki.wiki/",
+      "title": "Anime Crusaders X: Codes, Tier List, Units Guide &amp; Wiki",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://www.destructoid.com/anime-crusaders-codes",
+      "title": "Anime Crusaders X Codes (November 2026)",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://www.treyexgaming.com/anime-crusaders-trello",
+      "title": "Anime Crusaders Trello & Wiki Link - Gamemodes, Controls",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-16"
+}
