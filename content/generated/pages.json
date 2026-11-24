@@ -115,7 +115,8 @@
       "verification",
       "units",
       "updates",
-      "meta"
+      "meta",
+      "value-list"
     ],
     "lastReviewed": "2026-11-16"
   },
@@ -266,7 +267,8 @@
       "verification",
       "units",
       "updates",
-      "meta"
+      "meta",
+      "value-list"
     ],
     "lastReviewed": "2026-11-16"
   },
@@ -399,7 +401,8 @@
       "codes",
       "units",
       "updates",
-      "meta"
+      "meta",
+      "team"
     ],
     "lastReviewed": "2026-11-16"
   },
@@ -546,7 +549,9 @@
       "tier-list",
       "codes",
       "verification",
-      "updates"
+      "updates",
+      "value-list",
+      "team"
     ],
     "lastReviewed": "2026-11-16"
   },
@@ -784,7 +789,208 @@
     "relatedSlugs": [
       "verification",
       "tier-list",
-      "codes"
+      "codes",
+      "team"
+    ],
+    "lastReviewed": "2026-11-24",
+    "parentSlug": "",
+    "screenshots": []
+  },
+  {
+    "enabled": true,
+    "slug": "value-list",
+    "pageType": "database",
+    "navLabel": "Value List",
+    "title": "Anime Crusaders X Anime Crusaders Value List List (2026)",
+    "description": "All Anime Crusaders X value list on Roblox in one table: stats, rarity and how to get each one, plus which to prioritise first. Includes full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Anime Crusaders X Anime Crusaders Value List: Full List, Stats & How to Get Them",
+      "lead": "If you searched for “anime crusaders x anime crusaders value list” to decide which character to invest in, start with the units guide for team fit and the tier list for combat rankings. Neither guide is a price table. For an upgrade decision, separate what a character can do now from the abilities it gains through leveling. If you are choosing between two units, use the units guide to compare what each adds to your squad, then use the tier list to see how each fits the mode you play.",
+      "eyebrow": "Database"
+    },
+    "sections": [
+      {
+        "id": "compare-units-by-team-fit-not-price",
+        "heading": "Compare Units by Team Fit, Not Price",
+        "intro": "Anime Crusaders X does not have a verified unit-by-unit value table to compare here, so this page cannot give reliable prices or trade values. Use the Anime Crusaders X units guide at /units/ to compare characters by team role, cost, and upgrade fit instead. That keeps a practical roster decision separate from a market-style value claim.",
+        "paragraphs": [
+          "Start by identifying the job your team needs filled. The units guide covers role-based comparisons and how to build a balanced early team; use it to assess whether a candidate adds damage, support, or durability rather than choosing from an unsupported numerical ranking. A unit’s value to your squad depends on that role and the cost of fitting it into your plan.",
+          "Before investing, check what the unit can do at its current level and what abilities leveling unlocks. Then verify any evolution recipe in-game before spending rare materials. The available guide recommends checking five fit factors before committing, but this page does not have a verified unit-by-unit breakdown or confirmed acquisition routes to turn into a complete table.",
+          "For a direct comparison, choose the two units you are considering and evaluate them against the same team need and cost constraints. Use the units guide for those details, and keep mode-specific combat rankings separate: a ranking can help assess performance, but it is not a price list or proof of trade value."
+        ],
+        "table": {
+          "caption": "Anime Crusaders X Anime Crusaders Value List at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Compare Units by Team Fit, Not Price",
+              "Anime Crusaders X does not have a verified unit-by-unit value table to compare here, so this page cannot give reliable prices or trade values."
+            ],
+            [
+              "Use Combat Rankings for Your Game Mode",
+              "A combat ranking helps compare how well units perform in a mode; it is not a price list or a measure of trade value."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "use-combat-rankings-for-your-game-mode",
+        "heading": "Use Combat Rankings for Your Game Mode",
+        "intro": "A combat ranking helps compare how well units perform in a mode; it is not a price list or a measure of trade value. The Anime Crusaders X tier list groups units by tier and role, with Story, Infinite, and Expedition considered separately because each mode can favor different unit types.",
+        "paragraphs": [
+          "Use the Anime Crusaders X tier list when your question is which unit may fit a particular mode or team role. Check the mode and role behind a ranking before applying it to your own lineup. A placement in one mode does not establish a unit’s value in another, and a combat ranking alone cannot tell you what a unit costs or how to obtain it.",
+          "No unit-by-unit prices or trade values are available here, so this page does not assign numerical values or present a comparison table. For direct team-fit comparisons, see the units guide; use the tier list for combat rankings rather than treating those rankings as market prices."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the fastest way to check anime crusaders x anime crusaders value list?",
+        "answer": "Players can verify anime crusaders x anime crusaders value list directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      },
+      {
+        "question": "How often does anime crusaders x anime crusaders value list change after updates?",
+        "answer": "Players can verify anime crusaders x anime crusaders value list directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      },
+      {
+        "question": "Where can players verify official anime crusaders x anime crusaders value list announcements?",
+        "answer": "Players can verify anime crusaders x anime crusaders value list directly inside the official Roblox experience and community update logs, using the comparison table and step-by-step checklist on this page after each patch."
+      }
+    ],
+    "relatedSlugs": [
+      "tier-list",
+      "codes",
+      "units"
+    ],
+    "lastReviewed": "2026-11-24",
+    "parentSlug": "",
+    "screenshots": []
+  },
+  {
+    "enabled": true,
+    "slug": "team",
+    "pageType": "guide",
+    "navLabel": "Team",
+    "title": "Anime Crusaders X Best Team Guide (2026) – How It Works",
+    "description": "Anime Crusaders X Best Team explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Anime Crusaders X Best Team Guide: How It Works & Best Tips",
+      "lead": "For the Anime Crusaders X best team, start with the stage you want to clear and the units you already own. Keep the characters that handle most of the stage and look for a replacement that helps where the lineup falls short. Leveling unlocks abilities, so check what a candidate can do at its current level before counting on it. Write down what the new unit needs to fix and what you would lose by taking someone out. The comparison table and steps below help you choose a lineup for your next clear and decide what to carry into another stage.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "start-with-the-squad-you-can-field",
+        "heading": "Start With the Squad You Can Field",
+        "intro": "In Anime Crusaders X, you summon anime characters, assemble them into a squad, and use that squad to defend against waves of enemies. Leveling your units unlocks abilities, so the same group of characters can give you more options as it develops.",
+        "paragraphs": [
+          "Pick one stage and use the checklist below to record your starting lineup. If you have already attempted the stage, use the squad you actually brought and note where the run ended. If this is your first attempt, treat the lineup as a baseline: after the run, record how far it got before deciding whether anything needs to change."
+        ],
+        "table": {
+          "caption": "Anime Crusaders X Best Team at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Start With the Squad You Can Field",
+              "In Anime Crusaders X, you summon anime characters, assemble them into a squad, and use that squad to defend against waves of enemies."
+            ],
+            [
+              "Replace the Unit Whose Job You Can Cover",
+              "Treat a lineup change as a squad-wide trade-off."
+            ],
+            [
+              "Pick for the Next Run Before Planning an Upgrade",
+              "Choose your next-run lineup based on what each candidate can do now."
+            ],
+            [
+              "Keep What Works When You Move to Another Stage",
+              "Treat a cleared stage’s lineup as a starting point, not a universal setup."
+            ]
+          ]
+        },
+        "bullets": [
+          "Current lineup: List the characters you plan to bring and their current levels. Keep those details together so you can refer back to the exact squad you took into the stage.",
+          "Owned alternatives: Make a separate shortlist of characters you already have but are not bringing. Leave characters you still need to summon off this list.",
+          "Run goal: Write down what would count as progress. That could mean clearing the stage or getting past the wave that ended your last attempt."
+        ]
+      },
+      {
+        "id": "replace-the-unit-whose-job-you-can-cover",
+        "heading": "Replace the Unit Whose Job You Can Cover",
+        "intro": "Treat a lineup change as a squad-wide trade-off. Before swapping anyone, identify what the stage is asking your team to do, what the outgoing unit currently contributes, and whether another unit can take over that contribution. Then compare what the candidate adds. A replacement is useful when it addresses a gap without leaving the rest of the squad short; a stronger-looking candidate may be a poor fit if it duplicates work your lineup already handles.",
+        "paragraphs": [
+          "Use this hypothetical comparison to test the swap before changing your lineup. The roles below are examples of team needs, not rankings or claims about specific characters."
+        ],
+        "steps": [
+          {
+            "heading": "Current lineup",
+            "description": "List the characters you plan to bring and their current levels. Keep those details together so you can refer back to the exact squad you took into the stage."
+          },
+          {
+            "heading": "Owned alternatives",
+            "description": "Make a separate shortlist of characters you already have but are not bringing. Leave characters you still need to summon off this list."
+          },
+          {
+            "heading": "Run goal",
+            "description": "Write down what would count as progress. That could mean clearing the stage or getting past the wave that ended your last attempt."
+          }
+        ],
+        "bullets": [
+          "Swap that fills a gap: The team needs more damage coverage; the outgoing pick provides support; the candidate adds damage; another current teammate can maintain the support contribution.",
+          "Swap that duplicates a contribution: The team already has damage coverage; the outgoing pick provides damage; the candidate also adds damage; no teammate benefits from the extra overlap, so the original lineup may cover more needs.",
+          "For an individual unit comparison, see the Anime Crusaders X units guide at /units/. Focus this decision on what the candidate changes for the whole squad, rather than repeating a role-by-role ranking."
+        ]
+      },
+      {
+        "id": "pick-for-the-next-run-before-planning-an-upgrade",
+        "heading": "Pick for the Next Run Before Planning an Upgrade",
+        "intro": "Choose your next-run lineup based on what each candidate can do now. Leveling unlocks abilities, so a unit with a useful future ability may still be the wrong replacement for a run that needs help immediately. Keep the current pick if it already covers the required job, then develop a replacement for a later lineup.",
+        "paragraphs": [
+          "| Candidate situation | Next-run decision | Longer-term decision |\n| A candidate can cover the needed job now | Try it in the next run and compare the result | Invest further only if it continues to fit your goals |\n| The candidate depends on an ability that is still locked | Keep your current pick if it covers that job today | Develop the candidate, then reassess when the ability is available |\n| The candidate’s current abilities suit a different job | Use it only if that other job is missing from the lineup | Save it for a lineup where that contribution is useful |",
+          "For example, suppose your current unit handles a job the stage requires, while a candidate looks promising because of an ability it has not unlocked yet. Keep the current unit for the immediate attempt and work on the candidate separately. Once its ability becomes available, compare the two by changing one unit at a time; that makes it easier to see whether the replacement actually improves the run. Avoid treating a ranking as proof that a candidate is ready for your lineup."
+        ]
+      },
+      {
+        "id": "keep-what-works-when-you-move-to-another-stage",
+        "heading": "Keep What Works When You Move to Another Stage",
+        "intro": "Treat a cleared stage’s lineup as a starting point, not a universal setup. Before the next run, note which picks handled jobs you still expect to need, which pick solved a problem specific to the stage you just cleared, and what the new goal might require. Keep the first group as your baseline; reconsider the stage-specific pick rather than replacing several units at once.",
+        "paragraphs": [
+          "For example, suppose your current squad clears Stage A after one particular unit fills a gap in that run. When moving to Stage B, keep the rest of the proven lineup while you assess whether that same gap matters there. If it does, retain the pick. If not, test one candidate that better fits the new goal and compare the result with your baseline. This makes it easier to tell whether the change helped, without assuming anything about Stage B’s enemies or rules.",
+          "Use the tier list to compare how units may fit different modes, then use the meta guide’s one-unit swap test to evaluate a change in your own runs. Keep a short handoff note for each move: what stays, what was stage-specific, and which single pick you want to reconsider."
+        ],
+        "bullets": [
+          "Keep: picks that contributed to the previous clear and may still fit the next goal.",
+          "Reconsider: the pick that addressed a problem specific to the previous stage.",
+          "Test: one alternative at a time, comparing it with the lineup you already know can clear."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can I work on my team before summoning more characters?",
+        "answer": "Yes. If you already own a unit that could help, try it before making a new summon part of your plan. If the squad you have is close to clearing the stage, leveling a unit you already use can also be worth considering, since leveling can unlock abilities."
+      },
+      {
+        "question": "Can a lower-ranked unit be a better pick for my team?",
+        "answer": "Yes. A higher rank can help you decide which units to look at first, but it doesn't tell you whether a unit helps with the stage that's stopping you. If the lower-ranked pick offers something useful at that point in the run, it's worth considering before you spend on the higher-ranked option."
+      },
+      {
+        "question": "Should I build around the mode I play most or the stage I want to clear next?",
+        "answer": "If the next clear is your immediate goal, pick for that stage first. For upgrades you want to keep using afterward, weigh how often you expect to bring that unit into your usual mode. A pick can be worth bringing for one clear without being the next unit you want to develop."
+      }
+    ],
+    "relatedSlugs": [
+      "units",
+      "verification",
+      "meta"
     ],
     "lastReviewed": "2026-11-24",
     "parentSlug": "",
