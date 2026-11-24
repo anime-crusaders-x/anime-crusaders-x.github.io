@@ -114,7 +114,8 @@
       "codes",
       "verification",
       "units",
-      "updates"
+      "updates",
+      "meta"
     ],
     "lastReviewed": "2026-11-16"
   },
@@ -264,7 +265,8 @@
       "tier-list",
       "verification",
       "units",
-      "updates"
+      "updates",
+      "meta"
     ],
     "lastReviewed": "2026-11-16"
   },
@@ -396,7 +398,8 @@
       "tier-list",
       "codes",
       "units",
-      "updates"
+      "updates",
+      "meta"
     ],
     "lastReviewed": "2026-11-16"
   },
@@ -674,5 +677,117 @@
       "units"
     ],
     "lastReviewed": "2026-11-16"
+  },
+  {
+    "enabled": true,
+    "slug": "meta",
+    "pageType": "guide",
+    "navLabel": "Meta",
+    "title": "Anime Crusaders X Meta Guide (2026) – How It Works & Tips",
+    "description": "Anime Crusaders X Meta explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Anime Crusaders X Meta Guide: How It Works & Best Tips",
+      "lead": "Use the Anime Crusaders X meta to shortlist units, then let your own runs decide which ones are worth investing in. A tier ranking is a starting point, not a guarantee that a unit will fix the stage you’re stuck on. Leveling unlocks abilities, so judge a candidate by what it can do now as well as what you expect it to contribute later. For a fair comparison, change one unit at a time. The table and steps below show what to track and how to turn the results into an upgrade decision.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "use-meta-rankings-to-shortlist-units-not-pick-your-whole-team",
+        "heading": "Use Meta Rankings to Shortlist Units, Not Pick Your Whole Team",
+        "intro": "In Anime Crusaders X, the meta is a decision aid for building your roster. You collect characters, lead a team of anime units against enemy waves, and level those units to unlock abilities. That means a highly ranked unit still needs to fit the stage, the rest of your squad, and the abilities you can currently access.",
+        "paragraphs": [
+          "Start with a shortlist instead of copying an entire team. The Anime Crusaders X tier list can help you identify units that are worth investigating, while your own runs show whether a candidate solves the problem you are facing. Compare what the unit contributes with its abilities available now, then consider what it may add after further leveling. Keep those two judgments separate so a future upgrade does not hide weak current performance.",
+          "A practical meta decision asks three questions. Does the unit address the role your squad lacks? Does it improve the wave where your progress stops? Can you invest in it without weakening the rest of your lineup? Test one candidate at a time and record the result before changing another unit. A ranking can narrow the choices, but the final upgrade decision should come from repeatable performance in your own stage attempts."
+        ],
+        "table": {
+          "caption": "Anime Crusaders X Meta at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Use Meta Rankings to Shortlist Units, Not Pick Your Whole Team",
+              "In Anime Crusaders X, the meta is a decision aid for building your roster."
+            ],
+            [
+              "Identify the Wave Your Current Squad Struggles With",
+              "Choose the stage you want to clear and play it with your current squad."
+            ],
+            [
+              "Test One Unit Swap on the Same Stage",
+              "Run the stage once with your current squad, then replay it with one unit from your roster replacing one member of that squad."
+            ],
+            [
+              "Keep, Retest, or Skip the Upgrade Based on the Result",
+              "Decide whether to keep the swap before deciding whether to spend on it."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "identify-the-wave-your-current-squad-struggles-with",
+        "heading": "Identify the Wave Your Current Squad Struggles With",
+        "intro": "Choose the stage you want to clear and play it with your current squad. Record the first wave where enemies start getting past your units, even if you survive several more waves. An earlier wave can reveal a problem that the final wave number alone would miss. If the defense holds until the wave that ends the run, record that wave.",
+        "paragraphs": [
+          "Fill in the four worksheet columns after each attempt. Be specific about where enemies got through and what was happening just before they did. For example, if enemies passed the last unit while the front of the path was still crowded, write down both details. Choose one improvement you can see on the next run, such as getting through that wave without an enemy passing the last unit.",
+          "Suppose you reach wave 8 twice. On the first run, a group gets past your last unit during that wave. If you see the same thing on the second run, you have a specific problem to watch for next time. If the second run ends at wave 8 but enemies started slipping through on wave 7, record the earlier break separately. Reaching wave 8 twice gives you a place to look. Choosing which unit to replace takes a separate comparison."
+        ],
+        "bullets": [
+          "Stage | First wave that caused trouble | What you observed | One improvement to look for",
+          "Example stage | Wave 8 | A group passed the last unit | Get through wave 8 without enemies passing the last unit"
+        ]
+      },
+      {
+        "id": "test-one-unit-swap-on-the-same-stage",
+        "heading": "Test One Unit Swap on the Same Stage",
+        "intro": "Run the stage once with your current squad, then replay it with one unit from your roster replacing one member of that squad. Note where you placed your units in the first run so you can match those spots as closely as practical in the second. Keep the rest of the lineup unchanged and avoid leveling units between attempts.",
+        "paragraphs": [
+          "Compare the two runs side by side using the three rows below. For abilities, write down what each tested unit has unlocked at its current level. For progress, distinguish reaching a wave from clearing it: two runs can end on the same wave even if one squad handled it better."
+        ],
+        "bullets": [
+          "Abilities available — Original run: Record the outgoing unit’s unlocked abilities. Swap run: Record the incoming unit’s unlocked abilities. Leave out abilities neither unit could use in its run.",
+          "Furthest wave — Original run: Note the last wave reached and whether you cleared it. Swap run: Record the same details so you can compare progress directly.",
+          "Original problem — Original run: Record what happened at the trouble spot. Swap run: Look for the same thing. For example, if enemies slipped past a particular bend, note whether fewer got through there, even if you didn’t reach a later wave."
+        ]
+      },
+      {
+        "id": "keep-retest-or-skip-the-upgrade-based-on-the-result",
+        "heading": "Keep, Retest, or Skip the Upgrade Based on the Result",
+        "intro": "Decide whether to keep the swap before deciding whether to spend on it. If the candidate consistently helps at the wave that was stopping you, keep it in the lineup for that stage. You can use the improved lineup to see what stops your next attempt before committing to an upgrade.",
+        "paragraphs": [
+          "Suppose your original squad stalls at the same wave on two attempts. With the candidate in the lineup, you get past that wave on both attempts but lose at the next one. That’s a useful result: the swap gets your team past its first hurdle and gives you a chance to see what happens later. Keep the candidate for the next attempt, but check what goes wrong at the later wave before spending. The unit you swapped out may still be the better choice on a different stage.",
+          "If the choice comes down to what each unit does for the team and how much it costs to invest in, use the Anime Crusaders X units guide to compare their roles, costs, and upgrade value."
+        ],
+        "bullets": [
+          "Keep the swap if it repeatedly helps at the problem wave without making the squad struggle earlier.",
+          "Retest if the swap gets you past the problem wave once but stalls there again. Leave both units at their current levels until you have a clearer result.",
+          "Skip the upgrade for now if the squad still struggles at the same point and you see no improvement there. Save your resources for a candidate that addresses the problem."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does meta work in Anime Crusaders X?",
+        "answer": "Think of a ranking as a recommendation about where to look first. It helps narrow down which characters to consider summoning, leveling, or putting on the team. It does not unlock anything on its own: unit abilities become available through leveling."
+      },
+      {
+        "question": "Is meta worth following in Anime Crusaders X?",
+        "answer": "It’s most useful when you have several candidates and aren’t sure where to spend your time. If your current squad already clears the content you care about, treat a higher-ranked character as an option for a future run, not an automatic replacement for someone who is already doing the job."
+      },
+      {
+        "question": "What is the best meta strategy when choosing between two units?",
+        "answer": "Pick the stage or mode you plan to play next and judge both units against that goal. If your next objective changes, revisit the choice rather than assuming the same recommendation still applies. A unit can be worth keeping for one purpose without needing a permanent slot in every lineup."
+      }
+    ],
+    "relatedSlugs": [
+      "verification",
+      "tier-list",
+      "codes"
+    ],
+    "lastReviewed": "2026-11-24",
+    "parentSlug": "",
+    "screenshots": []
   }
 ]
