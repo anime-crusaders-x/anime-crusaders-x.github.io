@@ -6,6 +6,99 @@ import { manualAdsterra } from "@/config/manual-adsterra";
 import { legalPages } from "@/content/legal";
 
 let socialLoaded = false;
+let popunderLoaded = false;
+
+/*
+ * Ad tracking: one GA4 "ad_slot" event per ad per page view.
+ * ad_status: filled (ad visible) / loaded (global script loaded) / blocked (script failed or slot hidden)
+ * / no_fill (nothing within 8s) / left_early (left before the ad appeared) / no_slot (no place to insert).
+ */
+type AdTrackFormat = "728" | "320" | "native" | "popunder" | "social";
+const AD_RESULT_TIMEOUT_MS = 8000;
+const leaveHandlers = new Set<() => void>();
+let pagehideBound = false;
+
+function viewportBucket() {
+  const width = window.innerWidth;
+  return width < 480 ? "<480" : width < 768 ? "480-767" : width < 1024 ? "768-1023" : ">=1024";
+}
+
+function sendAdEvent(format: AdTrackFormat, status: string, elapsedMs: number | null, beacon = false) {
+  try {
+    const gtag = (window as Window & { gtag?: (...args: unknown[]) => void }).gtag;
+    const params: Record<string, unknown> = { ad_format: format, ad_status: status, viewport: viewportBucket() };
+    if (elapsedMs !== null) params.load_ms = Math.round(elapsedMs);
+    if (beacon) params.transport_type = "beacon";
+    gtag?.("event", "ad_slot", params);
+  } catch {
+    // Analytics must never break the page or the ads.
+  }
+}
+
+function bindPagehide() {
+  if (pagehideBound) return;
+  pagehideBound = true;
+  window.addEventListener("pagehide", () => {
+    for (const leave of Array.from(leaveHandlers)) leave();
+  });
+}
+
+function isHidden(element: Element) {
+  const style = window.getComputedStyle(element);
+  return style.display === "none" || style.visibility === "hidden" || element.getClientRects().length === 0;
+}
+
+function hasVisibleAd(slot: HTMLElement) {
+  if (!slot.isConnected || isHidden(slot)) return false;
+  return Array.from(slot.querySelectorAll("iframe, img, [id^='container-'] > *")).some((node) => {
+    const rect = node.getBoundingClientRect();
+    return rect.width > 10 && rect.height > 10;
+  });
+}
+
+interface AdTracker {
+  /** Route change or page exit before a result: reports left_early. */
+  leave: () => void;
+  /** The slot is replaced (e.g. viewport crossed 768px): stop without reporting. */
+  cancel: () => void;
+}
+
+function trackAd(format: AdTrackFormat, slot: HTMLElement | null, scripts: HTMLScriptElement[]): AdTracker {
+  const started = performance.now();
+  const external = scripts.filter((script) => script.src);
+  let done = false;
+  let failed = false;
+  let loaded = 0;
+  let poll = 0;
+  let timer = 0;
+  const stop = () => {
+    done = true;
+    window.clearInterval(poll);
+    window.clearTimeout(timer);
+    leaveHandlers.delete(leave);
+  };
+  const finish = (status: string, beacon = false) => {
+    if (done) return;
+    stop();
+    sendAdEvent(format, status, performance.now() - started, beacon);
+  };
+  const leave = () => finish("left_early", true);
+  const check = () => {
+    if (slot ? hasVisibleAd(slot) : external.length > 0 && loaded >= external.length) finish(slot ? "filled" : "loaded");
+  };
+  for (const script of external) {
+    script.addEventListener("load", () => { loaded += 1; check(); });
+    script.addEventListener("error", () => { failed = true; finish("blocked"); });
+  }
+  bindPagehide();
+  leaveHandlers.add(leave);
+  if (slot) poll = window.setInterval(check, 500);
+  timer = window.setTimeout(() => {
+    check();
+    finish(failed || (slot !== null && slot.isConnected && isHidden(slot)) ? "blocked" : "no_fill");
+  }, AD_RESULT_TIMEOUT_MS);
+  return { leave, cancel: () => { if (!done) stop(); } };
+}
 const LEGAL_PATHS = new Set(legalPages.map((page) => trimSlashes(page.slug)));
 
 function trimSlashes(value: string) {
@@ -19,10 +112,11 @@ function isLegalPath(pathname: string | null) {
   return LEGAL_PATHS.has(clean) || LEGAL_PATHS.has(tail);
 }
 
-function appendOfficialCode(target: HTMLElement, html: string) {
+function appendOfficialCode(target: HTMLElement, html: string): HTMLScriptElement[] {
   const parsed = document.createElement("template");
   parsed.innerHTML = html;
   const scripts: HTMLScriptElement[] = [];
+  const created: HTMLScriptElement[] = [];
 
   // Native GET CODE can put its loader BEFORE its container element.
   // First create all markup; only then execute scripts in their original order.
@@ -45,7 +139,9 @@ function appendOfficialCode(target: HTMLElement, html: string) {
     if (original.hasAttribute("src") && !original.hasAttribute("async")) script.async = false;
     script.text = original.text;
     target.appendChild(script);
+    created.push(script);
   }
+  return created;
 }
 
 function adSlot(type: "banner" | "native", height = 0) {
@@ -165,6 +261,8 @@ export function ManualAdsterra() {
     const code = manualAdsterra;
     if (!code.enabled) return;
     let banner: HTMLElement | null = null;
+    let bannerTracker: AdTracker | null = null;
+    let nativeTracker: AdTracker | null = null;
     let native: HTMLElement | null = null;
     let smartlink: HTMLElement | null = null;
     let frame = 0;
@@ -172,11 +270,17 @@ export function ManualAdsterra() {
     let onMediaChange: (() => void) | null = null;
     const mountPageAds = () => {
       const main = document.querySelector("#main-content main") || document.querySelector("#main-content [data-arcade-surface]");
-      if (!main) return;
-      const hero = findHero(main);
-      if (!hero) return;
+      const hero = main ? findHero(main) : null;
+      if (!main || !hero) {
+        const mobile = window.matchMedia("(max-width: 767px)").matches;
+        if (mobile ? code.mobileBanner : code.desktopBanner) sendAdEvent(mobile ? "320" : "728", "no_slot", null);
+        if (code.nativeBanner) sendAdEvent("native", "no_slot", null);
+        return;
+      }
       if (code.desktopBanner || code.mobileBanner) {
         const renderBanner = () => {
+          bannerTracker?.cancel();
+          bannerTracker = null;
           banner?.remove();
           banner = null;
           const mobile = window.matchMedia("(max-width: 767px)").matches;
@@ -184,7 +288,7 @@ export function ManualAdsterra() {
           if (!snippet) return;
           banner = adSlot("banner", mobile ? 50 : 90);
           hero.insertAdjacentElement("afterend", banner);
-          appendOfficialCode(banner, snippet);
+          bannerTracker = trackAd(mobile ? "320" : "728", banner, appendOfficialCode(banner, snippet));
         };
         renderBanner();
         media = window.matchMedia("(max-width: 767px)");
@@ -197,7 +301,9 @@ export function ManualAdsterra() {
         if (content) {
           native = adSlot("native");
           content.insertAdjacentElement("afterend", native);
-          appendOfficialCode(native, code.nativeBanner);
+          nativeTracker = trackAd("native", native, appendOfficialCode(native, code.nativeBanner));
+        } else {
+          sendAdEvent("native", "no_slot", null);
         }
       }
       const smartlinkHref = safeSmartlink(code.smartlink);
@@ -212,16 +318,26 @@ export function ManualAdsterra() {
       }
     };
     frame = window.requestAnimationFrame(mountPageAds);
+    // Popunder: once per page view, never started from a legal page (Adsterra applies its own frequency cap).
+    if (code.popunder && !popunderLoaded && !isLegalPath(pathname)) {
+      popunderLoaded = true;
+      const holder = document.createElement("div");
+      holder.setAttribute("data-manual-adsterra", "popunder");
+      document.body.appendChild(holder);
+      trackAd("popunder", null, appendOfficialCode(holder, code.popunder));
+    }
     if (code.socialBar && !socialLoaded) {
       socialLoaded = true;
       const global = document.createElement("div");
       global.setAttribute("data-manual-adsterra", "social");
       document.body.appendChild(global);
-      appendOfficialCode(global, code.socialBar);
+      trackAd("social", null, appendOfficialCode(global, code.socialBar));
     }
     return () => {
       window.cancelAnimationFrame(frame);
       if (media && onMediaChange) media.removeEventListener("change", onMediaChange);
+      bannerTracker?.leave();
+      nativeTracker?.leave();
       banner?.remove();
       native?.remove();
       smartlink?.remove();
